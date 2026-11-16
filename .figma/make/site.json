@@ -1,0 +1,12 @@
+{
+  "title": "Спарта Плюс — тренировки в Томске",
+  "language": "ru",
+  "description": "Дизайн-концепт сайта клуба Спарта Плюс: направления, расписание и запись на занятия.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
